@@ -1,0 +1,51 @@
+#keyboard{
+    display:inline-block;    
+    border:3px solid black;
+    padding:6px;
+}
+#inputKeyboard{
+    width:87%;
+    height:200px;
+    border:3px solid black;
+    font-size:20px;
+    color:blueviolet;
+}
+.keys{    
+    width:60px;
+    height:60px;
+    float:left;
+    margin:4px;
+    padding:4px;
+    border:2px solid black;    
+}
+.backspace{
+    width:100px;
+}
+.tab{
+    width:70px;
+}
+.caps{
+    width:80px;
+}
+.enter{
+    width:160px;
+}
+.shift{
+    width:120px;
+}
+.space{
+    width:580px;
+}
+.clearfix{
+    display:block;
+    width:100%;
+    clear:both;
+}
+.active{
+    background: rgba(137, 43, 226, 0.514);
+    border-radius: 20%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.animation{
+    border-radius:50%;
+}
