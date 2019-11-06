@@ -1,0 +1,18 @@
+{
+  "name": "keyboard",
+  "version": "1.0.0",
+  "description": "keyboard",
+  "main": "script.js",
+  "dependencies": {
+    "eslint-config-rallycoding": "^3.2.0",
+    "eslint-plugin-import": "^2.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
